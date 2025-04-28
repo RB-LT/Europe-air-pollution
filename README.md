@@ -12,5 +12,8 @@ Download CAMS European air quality reanalyses data from Copernicus A.D.S. and vi
 5. Extract .nc files from temp.zip into project directory.
 6. In Visualize-data.py select a pollutant,elevation,year and month to visualize.
 
-Example: Carbon Monoxide concentration over europe December 2018
+Example:
+Carbon Monoxide concentration over Europe December 2018
 ![example map](images/example_map.png)
+Particulate matter with d<2.5µm concentration over Europe December 2018
+![example map](images/example_map2.png)
