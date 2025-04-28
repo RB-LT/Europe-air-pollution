@@ -9,7 +9,8 @@ Download CAMS European air quality reanalyses data from Copernicus A.D.S. and vi
 2. Create a ECMWF account for an api key.
 3. Create a .cdsapirc file in your home directory with you API key (https://ads.atmosphere.copernicus.eu/how-to-api).
 4. In Download-data.py select settings by uncommenting (some settings dont work together).
-5. In Visualize-data.py select a pollutant,elevation,year and month to visualize.
+5. Extract .nc files from temp.zip into project directory.
+6. In Visualize-data.py select a pollutant,elevation,year and month to visualize.
 
 Example: Carbon Monoxide concentration over europe December 2018
 ![example map](images/example_map.png)
