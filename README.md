@@ -11,6 +11,7 @@ Download CAMS European air quality reanalyses data from Copernicus A.D.S. and vi
 4. In Download-data.py select settings by uncommenting (some settings dont work together).
 5. Extract .nc files from temp.zip into project directory.
 6. In Visualize-data.py select a pollutant,elevation,year and month to visualize.
+7. (If you change the model/type) check the file you downloaded and set the settings accordingly cams.eaq.{type}.{model}.{pollutant}.l{elev}.{year}-{month}.nc
 
 Example:
 Carbon Monoxide concentration over Europe December 2018
